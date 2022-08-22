@@ -42,8 +42,7 @@ body{
     .mobile-images{
         display: none;
     }
-    .mobile-links{
-        display: none;
+    
 }
 @keyframes Slide_up{
     0%{
