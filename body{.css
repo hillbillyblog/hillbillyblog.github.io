@@ -57,13 +57,13 @@ body{
         animation: Slide_up 1s ease;
 
     }
-    .computer-desc{
+    .comp-desc{
         display: none;
     }
-    .computer-links{
+    .comp-links{
         display: none;
     }
-    .computer-images{
+    .comp-images{
         display: none;
     }
 }
