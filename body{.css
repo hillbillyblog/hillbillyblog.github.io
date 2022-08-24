@@ -38,8 +38,8 @@ body{
     }
     .banner__content {
         padding: 16px;
-        max-width: 500px;
-        margin: 5 auto;
+        max-width: auto;
+        margin: auto;
         display: flex;
         align-items: left;
     }
