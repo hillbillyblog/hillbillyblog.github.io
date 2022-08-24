@@ -33,6 +33,9 @@ body{
         
         animation: Slide_up 1s ease;
     }
+    .banner{
+         background: #009579;
+    }
     .mobile-desc{
         display: none;
     }
