@@ -34,21 +34,16 @@ body{
         animation: Slide_up 1s ease;
     }
     .banner{
-         background: #009579;
+        overflow: hidden;
+        background-color: #333;
+        position: fixed; /* Set the navbar to fixed position */
+        top: 0; /* Position the navbar at the top of the page */
+        width: 100%;
+         
     }
-    .banner__content {
-        padding: 16px;
-        max-width: auto;
-        margin: auto;
-        display: flex;
-        align-items: left;
-    }
+    
 
-    .banner__text {
-        flex-grow: 1;
-        line-height: 1.4;
-        font-family: "Quicksand", sans-serif;
-    }
+    
 
     .mobile-desc{
         display: none;
