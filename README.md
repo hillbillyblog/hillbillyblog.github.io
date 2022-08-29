@@ -1,2 +1,2 @@
-# hillbillyblog.github.io
-My blog website, hosted with Github pages.
+
+My photoblog website, hosted with Github pages.
